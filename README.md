@@ -27,6 +27,7 @@ silahakn cek link berikut [github.com/adam-p/markdown-here/wiki/Markdown-Cheatsh
 ## Data Website
 
 1. [riau.go.id](https://riau.go.id) -> Website Resmi Pemerintah Daerah Riau
+    - [Laporan Metrics Lighthouse](https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fwww.riau.go.id%2F)
 2. [bpkad.riau.go.id](http://bpkad.riau.go.id) -> Badan Pengelola Keuangan dan Aset Daerah
 3. [http://bappeda.riau.go.id/web/] (http://bappeda.riau.go.id/web/)
 4. https://badanpendapatan.riau.go.id/
