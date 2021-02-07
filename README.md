@@ -1,4 +1,4 @@
-# awesome-riau-project
+# Awesome Riau Project
 Project yang didedikasikan kepada perkembangan Riau kedepan
 
 ## Pendataan seluruh website instansi pemerintahan
@@ -22,61 +22,68 @@ kami berharap teman-teman dapat membantu pendataan ini, untuk kemajuan bersama. 
 bantu kami dengan `mensubmit` issues, dan jelaskan saran anda
 
 ### bingung menggunakan markdown? 
-silahakn cek link berikut [github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+silahkan cek link berikut [github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Data Website
-![riau.go.id](riau-go-id.png)
-1. [riau.go.id](https://riau.go.id) -> Website Resmi Pemerintah Daerah Riau
-2. [bpkad.riau.go.id](http://bpkad.riau.go.id) -> Badan Pengelola Keuangan dan Aset Daerah
-3. [http://bappeda.riau.go.id/web/] (http://bappeda.riau.go.id/web/)
-4. https://badanpendapatan.riau.go.id/
-5. http://bkd.riau.go.id/
-6. http://balitbang.riau.go.id/
-7. http://bpbd.riau.go.id/
-8. https://bpsdm.riau.go.id/bpsdm/
-9. http://pupr.riau.go.id/
-10. http://esdm.riau.go.id/web/
-11. http://dkp.riau.go.id/
-12. http://disperin.riau.go.id/
-13. http://dinsos.riau.go.id/web/
-14. https://dipersip.riau.go.id/
-15. http://dpmptsp.riau.go.id/
-16. http://disnakertrans.riau.go.id/
-17. http://dpppa.riau.go.id/
-18. http://dispkh.riau.go.id/
-19. http://pmd.riau.go.id/
-20. http://disdukcapildaldukkb.riau.go.id/
-21. http://disdagkop-ukm.riau.go.id/
-22. https://dishub.riau.go.id/
-23. http://dispora.riau.go.id/
-24. http://dislhk.riau.go.id/
-25. http://pariwisata.riau.go.id/
-26. http://dinkes.riau.go.id/
-27. http://disbud.riau.go.id/
-28. http://disdik.riau.go.id/
-29. http://diskominfotik.riau.go.id/
-30. http://distanbun.riau.go.id/
-31. http://pkpp.riau.go.id/
-32. http://biroumum.riau.go.id/
-33. https://humas.riau.go.id/home/
-34. http://bap.riau.go.id/
-35. https://jdih.riau.go.id/
-36. http://tapem.riau.go.id/webtapem/
-37. http://rsudpetalabumi.riau.go.id/
-38. http//rsudarifinachmad.riau.go.id/
-39. http://rsjiwatampan.riau.go.id/
-40. http://dprd.riau.go.id/
-41. http://satpolpp.riau.go.id/
-42. http://www.pekanbaru.go.id/
-43. http://www.pekanbaru.go.id
-44. https://dumaikota.go.id/
-45. https://siakkab.go.id/
-46. https://www.rohilkab.go.id/
-47. http://www.rokanhulukab.go.id/
-48. https://www.kuansing.go.id/
-49. https://kamparkab.go.id/
-50. http://inhukab.go.id/
-51. https://bengkaliskab.go.id/
-52. http://merantikab.go.id/
-53. https://www.inhilkab.go.id/
-54. http://www.pelalawankab.go.id/portal/
+
+### https://riau.go.id -> Website Resmi Pemerintah Daerah Riau
+
+<details>
+   <summary>Foto Website</summary>
+   
+   ![riau.go.id](riau-go-id.png)
+</details>
+
+### http://bpkad.riau.go.id -> Badan Pengelola Keuangan dan Aset Daerah
+### http://bappeda.riau.go.id/web/
+### https://badanpendapatan.riau.go.id/
+### http://bkd.riau.go.id/
+### http://balitbang.riau.go.id/
+### http://bpbd.riau.go.id/
+### https://bpsdm.riau.go.id/bpsdm/
+### http://pupr.riau.go.id/
+### http://esdm.riau.go.id/web/
+### http://dkp.riau.go.id/
+### http://disperin.riau.go.id/
+### http://dinsos.riau.go.id/web/
+### https://dipersip.riau.go.id/
+### http://dpmptsp.riau.go.id/
+### http://disnakertrans.riau.go.id/
+### http://dpppa.riau.go.id/
+### http://dispkh.riau.go.id/
+### http://pmd.riau.go.id/
+### http://disdukcapildaldukkb.riau.go.id/
+### http://disdagkop-ukm.riau.go.id/
+### https://dishub.riau.go.id/
+### http://dispora.riau.go.id/
+### http://dislhk.riau.go.id/
+### http://pariwisata.riau.go.id/
+### http://dinkes.riau.go.id/
+### http://disbud.riau.go.id/
+### http://disdik.riau.go.id/
+### http://diskominfotik.riau.go.id/
+### http://distanbun.riau.go.id/
+### http://pkpp.riau.go.id/
+### http://biroumum.riau.go.id/
+### https://humas.riau.go.id/home/
+### http://bap.riau.go.id/
+### https://jdih.riau.go.id/
+### http://tapem.riau.go.id/webtapem/
+### http://rsudpetalabumi.riau.go.id/
+### http://rsudarifinachmad.riau.go.id/
+### http://rsjiwatampan.riau.go.id/
+### http://dprd.riau.go.id/
+### http://satpolpp.riau.go.id/
+### http://www.pekanbaru.go.id/
+### http://www.pekanbaru.go.id
+### https://dumaikota.go.id/
+### https://siakkab.go.id/
+### https://www.rohilkab.go.id/
+### http://www.rokanhulukab.go.id/
+### https://www.kuansing.go.id/
+### https://kamparkab.go.id/
+### http://inhukab.go.id/
+### https://bengkaliskab.go.id/
+### http://merantikab.go.id/
+### https://www.inhilkab.go.id/
+### http://www.pelalawankab.go.id/portal/
